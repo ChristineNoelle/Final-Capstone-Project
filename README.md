@@ -111,5 +111,5 @@ Link to data set in Kaggle Website:
 https://www.kaggle.com/code/vatsalmavani/music-recommendation-system-using-spotify-dataset/input
 
 ### Contact and Further Information: 
-Christine Jimenez 
+Christine Rapadas
 Email: christinerapadas@gmail.com
