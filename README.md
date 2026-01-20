@@ -1,7 +1,7 @@
 # Final-Capstone-Project
 ## Capstone Project: Using Musical Features to Classify Songs
 
-**Christine R. Jimenez**
+**Christine Rapadas**
 
 ### Executive Summary
 
